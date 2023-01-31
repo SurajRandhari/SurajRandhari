@@ -3,7 +3,7 @@
 # 💫 About Me:
 💻 I’m currently working on Freelancer as a Web-Developer<br><br>😛 I love writing code and learn anythings about it.<br><br>🤩 I’m currently learning React Native and MERN STACK.<br><br>💬 Ask me about Web Development or React.js.<br><br>
 
- <img src="[https://komarev.com/ghpvc/?username=surajrandhari&label=Profile%20views&color=0e75b6&style=flat](https://krisschool.in/wp-content/uploads/2022/10/full-stack-web-developer.svg)" alt="surajrandhari" /> 
+[![MasterHead](https://krisschool.in/wp-content/uploads/2022/10/full-stack-web-developer.svg)]
 https://krisschool.in/wp-content/uploads/2022/10/full-stack-web-developer.svg
 
 ## 🌐 Socials:
