@@ -14,16 +14,18 @@
   🛠️ Technologies & Tools
 </h3>
 <p align="center">
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white&labelColor=lightgray">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white&labelColor=lightgray">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white&labelColor=lightgray">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white&labelColor=inactive">
   <img src="https://img.shields.io/badge/Node.Js-brightgreen?style=flat&logo=node.js&logoColor=white&labelColor=lightgray">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white&labelColor=lightgray">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white&labelColor=lightgray">
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white&labelColor=inactive">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white&labelColor=lightgray">
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white&labelColor=inactive">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white&labelColor=lightgray">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white&labelColor=lightgray">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white&labelColor=lightgray">
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white&labelColor=lightgray">
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white&labelColor=lightgray">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white&labelColor=lightgray">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white&labelColor=lightgray">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white&labelColor=lightgray">
