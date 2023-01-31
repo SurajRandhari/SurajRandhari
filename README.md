@@ -22,11 +22,11 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white&labelColor=lightgray">
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white&labelColor=inactive">
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white&labelColor=inactive">
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white&labelColor=lightgray">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white&labelColor=lightgray">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white&labelColor=lightgray">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white&labelColor=lightgray">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white&labelColor=lightgray">
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white&labelColor=lightgray">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white&labelColor=lightgray">
 <!--   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white&labelColor=lightgray"> -->
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white&labelColor=lightgray">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white&labelColor=lightgray">
