@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Suraj Randhari</h1>
+
 # 💫 About Me:
 💻 I’m currently working on Freelancer as a Web-Developer<br><br>😛 I love writing code and learn anythings about it.<br><br>🤩 I’m currently learning React Native and MERN STACK.<br><br>💬 Ask me about Web Development or React.js.<br><br>
 
