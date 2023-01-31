@@ -3,7 +3,7 @@
 # 💫 About Me:
 💻 I’m currently working on Freelancer as a Web-Developer<br><br>😛 I love writing code and learn anythings about it.<br><br>🤩 I’m currently learning React Native and MERN STACK.<br><br>💬 Ask me about Web Development or React.js.<br><br>
 
-[![MasterHead](https://krisschool.in/wp-content/uploads/2022/10/full-stack-web-developer.svg)]
+[!MasterHead(https://krisschool.in/wp-content/uploads/2022/10/full-stack-web-developer.svg)]
 <!-- https://krisschool.in/wp-content/uploads/2022/10/full-stack-web-developer.svg -->
 
 ## 🌐 Socials:
