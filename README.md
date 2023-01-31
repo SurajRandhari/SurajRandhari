@@ -15,6 +15,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajrandhari&show_icons=true&locale=en&layout=compact" alt="surajrandhari" /></p>
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 
