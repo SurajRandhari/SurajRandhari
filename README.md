@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white&labelColor=lightgray">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white&labelColor=lightgray">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white&labelColor=lightgray">
-  <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=whit&labelColor=lightgray">
+<!--   <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=whit&labelColor=lightgray"> -->
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=GitHub%20Actions&logoColor=white&labelColor=lightgray">
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=Google%20Cloud&logoColor=white&labelColor=lightgray">
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white&labelColor=lightgray">
