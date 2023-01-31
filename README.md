@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white&labelColor=lightgray">
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white&labelColor=lightgray">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white&labelColor=lightgray">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white&labelColor=lightgray">
+<!--   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white&labelColor=lightgray"> -->
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white&labelColor=lightgray">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white&labelColor=lightgray">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white&labelColor=lightgray">
@@ -35,9 +35,9 @@
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=GitHub%20Actions&logoColor=white&labelColor=lightgray">
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=Google%20Cloud&logoColor=white&labelColor=lightgray">
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white&labelColor=lightgray">
-  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white&labelColor=lightgray">
+<!--   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white&labelColor=lightgray"> -->
   <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=DigitalOcean&logoColor=white&labelColor=lightgray">
-  <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=Heroku&logoColor=white&labelColor=lightgray">
+<!--   <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=Heroku&logoColor=white&labelColor=lightgray"> -->
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white">
 </p>
 
