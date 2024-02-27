@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suraj Randhari</h1>
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 1; max-width: 50%;">
     <h2>About Me:</h2>
     <p>💻 I’m currently working on Freelancer as a Web-Developer<br><br>😛 I love writing code and learn anything about it.<br><br>🤩 I’m currently learning React Native and MERN STACK.<br><br>💬 Ask me about Web Development or React.js.</p>
