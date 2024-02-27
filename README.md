@@ -1,5 +1,27 @@
 <h1 align="center">Hi 👋, I'm Suraj Randhari</h1>
 
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; max-width: 50%;">
+    <h2>About Me:</h2>
+    <p>💻 I’m currently working on Freelancer as a Web-Developer<br><br>😛 I love writing code and learn anything about it.<br><br>🤩 I’m currently learning React Native and MERN STACK.<br><br>💬 Ask me about Web Development or React.js.</p>
+    <h3>Socials:</h3>
+    <p>
+      <a href="https://facebook.com/https://www.facebook.com/surajrandharioffecial/">Facebook</a>
+      |
+      <a href="https://instagram.com/https://www.instagram.com/suraj_randhari_/">Instagram</a>
+      |
+      <a href="https://linkedin.com/in/https://www.linkedin.com/in/suraj-randhari/">LinkedIn</a>
+      |
+      <a href="https://twitter.com/https://twitter.com/SurajRandhari">Twitter</a>
+    </p>
+  </div>
+  <div style="flex: 1; max-width: 50%;">
+    <img src="https://krisschool.in/wp-content/uploads/2022/10/full-stack-web-developer.svg" width="200px">
+  </div>
+</div>
+
+<h1 align="center">Hi 👋, I'm Suraj Randhari</h1>
+
 # 💫 About Me:
 💻 I’m currently working on Freelancer as a Web-Developer<br><br>😛 I love writing code and learn anythings about it.<br><br>🤩 I’m currently learning React Native and MERN STACK.<br><br>💬 Ask me about Web Development or React.js.<br><br>
 
