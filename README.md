@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Suraj Randhari</h1>
 
 # Hi 👋, I'm Suraj Randhari
+![Profile Image](https://krisschool.in/wp-content/uploads/2022/10/full-stack-web-developer.svg)
+
 
 ## About Me:
 - 💻 I’m currently working on Freelancer as a Web-Developer
@@ -16,7 +18,6 @@
 
 ---
 
-![Profile Image](https://krisschool.in/wp-content/uploads/2022/10/full-stack-web-developer.svg)
 
 
 <h1 align="center">Hi 👋, I'm Suraj Randhari</h1>
