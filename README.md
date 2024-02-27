@@ -1,27 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj Randhari</h1>
 
-# Hi 👋, I'm Suraj Randhari
-![Profile Image](https://krisschool.in/wp-content/uploads/2022/10/full-stack-web-developer.svg)
-
-
-## About Me:
-- 💻 I’m currently working on Freelancer as a Web-Developer
-- 😛 I love writing code and learn anything about it.
-- 🤩 I’m currently learning React Native and MERN STACK.
-- 💬 Ask me about Web Development or React.js.
-
-## Socials:
-[Facebook](https://facebook.com/https://www.facebook.com/surajrandharioffecial/) |
-[Instagram](https://instagram.com/https://www.instagram.com/suraj_randhari_/) |
-[LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/suraj-randhari/) |
-[Twitter](https://twitter.com/https://twitter.com/SurajRandhari)
-
----
-
-
-
-<h1 align="center">Hi 👋, I'm Suraj Randhari</h1>
-
 # 💫 About Me:
 💻 I’m currently working on Freelancer as a Web-Developer<br><br>😛 I love writing code and learn anythings about it.<br><br>🤩 I’m currently learning React Native and MERN STACK.<br><br>💬 Ask me about Web Development or React.js.<br><br>
 
