@@ -1,19 +1,12 @@
 <h1 align="center">Hi 👋, I'm Suraj Randhari</h1>
 
-<div style="display: flex;  justify-content: center; flex-direction: row">
-  <div style="margin-right: 20px;">
-    <h2>💫 About Me:</h2>
-    <p>💻 I’m currently working on Freelancer as a Web-Developer</p>
-    <p>😛 I love writing code and learn anythings about it.</p>
-    <p>🤩 I’m currently learning React Native and MERN STACK.</p>
-    <p>💬 Ask me about Web Development or React.js.</p>
-  </div>
-  <img src="https://krisschool.in/wp-content/uploads/2022/10/full-stack-web-developer.svg" width="150px">
-</div>
-
-| 💫 **About Me** |
+<h2>💫 About Me:</h2>
+    
+| 💫 **About Me** | |
 |-----------------|----------------------------------------------------|
 | ![Developer](https://krisschool.in/wp-content/uploads/2022/10/full-stack-web-developer.svg) | 💻 I’m currently working on Freelancer as a Web-Developer <br> 😛 I love writing code and learn anything about it. <br> 🤩 I’m currently learning React Native and MERN STACK. <br> 💬 Ask me about Web Development or React.js. |
+
+## 🌐 Socials:
 
 ## 🌐 Socials:
 
