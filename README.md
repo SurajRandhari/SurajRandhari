@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suraj Randhari</h1>
 
-<div style="display: flex; align-items: center; justify-content: center;">
+<div style="display: flex;  justify-content: center; flex-direction: row">
   <div style="margin-right: 20px;">
     <h2>💫 About Me:</h2>
     <p>💻 I’m currently working on Freelancer as a Web-Developer</p>
