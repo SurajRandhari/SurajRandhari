@@ -11,12 +11,11 @@
   <img src="https://krisschool.in/wp-content/uploads/2022/10/full-stack-web-developer.svg" width="150px">
 </div>
 
-| 💫 **About Me** | ![Developer](https://krisschool.in/wp-content/uploads/2022/10/full-stack-web-developer.svg) |
-|-----------------|--------------------------------------------------|
-| 💻 I’m currently working on Freelancer as a Web-Developer | |
-| 😛 I love writing code and learn anything about it. | |
-| 🤩 I’m currently learning React Native and MERN STACK. | |
-| 💬 Ask me about Web Development or React.js. | |
+| 💫 **About Me** | |
+|-----------------|----------------------------------------------------|
+| ![Developer](https://krisschool.in/wp-content/uploads/2022/10/full-stack-web-developer.svg) | 💻 I’m currently working on Freelancer as a Web-Developer <br> 😛 I love writing code and learn anything about it. <br> 🤩 I’m currently learning React Native and MERN STACK. <br> 💬 Ask me about Web Development or React.js. |
+
+## 🌐 Socials:
 
 
 ## 🌐 Socials:
