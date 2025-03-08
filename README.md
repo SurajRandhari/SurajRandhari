@@ -11,6 +11,13 @@
   <img src="https://krisschool.in/wp-content/uploads/2022/10/full-stack-web-developer.svg" width="150px">
 </div>
 
+| 💫 **About Me** | ![Developer](https://krisschool.in/wp-content/uploads/2022/10/full-stack-web-developer.svg) |
+|-----------------|--------------------------------------------------|
+| 💻 I’m currently working on Freelancer as a Web-Developer | |
+| 😛 I love writing code and learn anything about it. | |
+| 🤩 I’m currently learning React Native and MERN STACK. | |
+| 💬 Ask me about Web Development or React.js. | |
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/surajrandharioffecial/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/suraj_randhari_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suraj-randhari/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/SurajRandhari) 
