@@ -1,56 +1,165 @@
-<h1 align="center">Hi 👋, I'm Suraj Randhari</h1>
+ <div align="center">
 
+<br/>
 
-<h2>💫 About Me:</h2>
+# SURAJ RANDHARI
 
-| ![Developer](https://krisschool.in/wp-content/uploads/2022/10/full-stack-web-developer.svg) | 💻 I’m currently working on Freelancer as a Web-Developer <br> 😛 I love writing code and learn anything about it. <br> 🤩 I’m currently learning React Native and MERN STACK. <br> 💬 Ask me about Web Development or React.js. |
-|-----------------|----------------------------------------------------|
+**Software Engineer · Full-Stack Developer**
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/surajrandharioffecial/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/suraj_randhari_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suraj-randhari/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/SurajRandhari) 
+Building digital products with clarity, precision, and purpose.
 
-<!-- # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) -->
+<br/>
 
-<h3 align="center">
-  🛠️ Technologies & Tools
-</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white&labelColor=lightgray">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white&labelColor=lightgray">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white&labelColor=inactive">
-  <img src="https://img.shields.io/badge/Node.Js-brightgreen?style=flat&logo=node.js&logoColor=white&labelColor=lightgray">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white&labelColor=lightgray">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white&labelColor=lightgray">
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white&labelColor=inactive">
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white&labelColor=inactive">
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white&labelColor=lightgray">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white&labelColor=lightgray">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white&labelColor=lightgray">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white&labelColor=lightgray">
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white&labelColor=lightgray">
-<!--   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white&labelColor=lightgray"> -->
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white&labelColor=lightgray">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white&labelColor=lightgray">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white&labelColor=lightgray">
-<!--   <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=whit&labelColor=lightgray"> -->
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=GitHub%20Actions&logoColor=white&labelColor=lightgray">
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=Google%20Cloud&logoColor=white&labelColor=lightgray">
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white&labelColor=lightgray">
-<!--   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white&labelColor=lightgray"> -->
-  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=DigitalOcean&logoColor=white&labelColor=lightgray">
-<!--   <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=Heroku&logoColor=white&labelColor=lightgray"> -->
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white">
-</p>
+<a href="https://www.linkedin.com/in/suraj-randhari/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/surajrandhari">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.instagram.com/suraj_randhari_/">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/><br/>
 
-### 😂 Random Dev Meme
+<img src="https://komarev.com/ghpvc/?username=surajrandhari&style=flat-square&color=0B6B4F&label=PROFILE+VIEWS" alt="Profile views"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajrandhari&show_icons=true&locale=en&layout=compact" alt="surajrandhari" /></p>
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<br/><br/>
 
+</div>
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I'm a software developer at **Qualityze Inc.**, focused on building modern web applications, scalable systems, and meaningful digital experiences.
+
+I enjoy working across frontend engineering, backend systems, and product development, with a focus on clean architecture and intuitive user experiences.
+
+- **Role:** Next.js Developer
+- **Location:** Bengaluru, India
+- **Focus:** Full-stack development and SaaS
+- **Interests:** System design, scalable architecture, and product engineering
+
+---
+
+## Technologies & Tools
+
+<div align="center">
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,redux&theme=light&perline=8" alt="Frontend technologies"/>
+
+<br/><br/>
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis,prisma,supabase,firebase&theme=light&perline=8" alt="Backend and database technologies"/>
+
+<br/><br/>
+
+### DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,gcp,githubactions,figma,postman&theme=light&perline=8" alt="DevOps and tools"/>
+
+<br/><br/>
+
+### Mobile & Other Technologies
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,cpp,vscode&theme=light&perline=5" alt="Mobile and other technologies"/>
+
+</div>
+
+---
+
+## Selected Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>ScanForEat</h3>
+
+<sub>SAAS · RESTAURANT TECHNOLOGY</sub>
+
+A multi-tenant restaurant platform focused on QR-powered digital menus, restaurant operations, and seamless customer experiences.
+
+**Stack**
+
+`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Supabase`
+
+<br/>
+
+<a href="https://scanforeat.com">Explore project ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>CCOG</h3>
+
+<sub>WEB · MOBILE · COMMUNITY</sub>
+
+A connected digital experience for church communities, bringing sermons, devotionals, worship songs, and spiritual resources together.
+
+**Stack**
+
+`Next.js` `Flutter` `Firebase` `Hive`
+
+<br/>
+
+<a href="https://ccogindia.vercel.app/">Explore project ↗</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Activity · 2026
+
+<div align="center">
+
+### Contribution Calendar
+
+<img src="https://github.com/users/surajrandhari/contributions?from=2026-01-01&to=2026-12-31" alt="2026 GitHub contributions" width="100%"/>
+
+<br/><br/>
+
+### Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajrandhari&layout=compact&hide_border=true&bg_color=00000000&title_color=0B6B4F&text_color=6B7280&langs_count=8" alt="Top programming languages"/>
+
+<br/><br/>
+
+<a href="https://github.com/surajrandhari">
+  <img src="https://img.shields.io/badge/View_GitHub_Profile-0B6B4F?style=flat-square&logo=github&logoColor=white" alt="View GitHub profile"/>
+</a>
+
+</div>
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+I'm always interested in connecting with developers, exchanging ideas, and exploring opportunities to build impactful products.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/suraj-randhari/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/surajrandhari">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.instagram.com/suraj_randhari_/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<br/><br/>
+
+<sub>Designed with curiosity. Built with code.</sub>
+
+</div>
