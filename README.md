@@ -10,6 +10,9 @@ Building digital products with clarity, precision, and purpose.
 
 <br/>
 
+<a href="https://surajrandhari.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-0B6B4F?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
 <a href="https://www.linkedin.com/in/suraj-randhari/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -22,7 +25,7 @@ Building digital products with clarity, precision, and purpose.
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=surajrandhari&style=flat-square&color=0B6B4F&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=surajrandhari&label=Profile%20Views&color=0B6B4F&style=flat-square" alt="Profile views"/>
 
 <br/><br/>
 
@@ -32,14 +35,14 @@ Building digital products with clarity, precision, and purpose.
 
 ## About Me
 
-I'm a software developer at **Qualityze Inc.**, focused on building modern web applications, scalable systems, and meaningful digital experiences.
+I'm a software developer with a strong foundation in modern web engineering and an intuitive eye for product aesthetics. I specialize in turning complex requirements into polished, high-performance web applications that look sharp and feel effortless to use.
 
-I enjoy working across frontend engineering, backend systems, and product development, with a focus on clean architecture and intuitive user experiences.
+Whether architecting scalable backend services or refining UI micro-interactions, I focus on clean code, seamless user journeys, and building products people genuinely love using.
 
-- **Role:** Next.js Developer
+- **Role:** Full-Stack Developer / Product Engineer
 - **Location:** Bengaluru, India
-- **Focus:** Full-stack development and SaaS
-- **Interests:** System design, scalable architecture, and product engineering
+- **Focus:** Modern Web Apps, Interface Design, SaaS
+- **Interests:** System Architecture, Modern UI/UX, Performance Optimization
 
 ---
 
@@ -91,7 +94,7 @@ A multi-tenant restaurant platform focused on QR-powered digital menus, restaura
 
 <br/>
 
-<a href="https://scanforeat.com">Explore project ↗</a>
+<a href="https://scanforeat.com/">Explore project ↗</a>
 
 </td>
 <td width="50%" valign="top">
@@ -120,21 +123,15 @@ A connected digital experience for church communities, bringing sermons, devotio
 
 <div align="center">
 
-### Contribution Calendar
+### Contribution Graph
 
-<img src="https://github.com/users/surajrandhari/contributions?from=2026-01-01&to=2026-12-31" alt="2026 GitHub contributions" width="100%"/>
+<img src="https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=surajrandhari&from=2026-01-01&to=2026-12-31&theme=green&size=large" alt="GitHub contributions in 2026" width="100%"/>
 
 <br/><br/>
 
 ### Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajrandhari&layout=compact&hide_border=true&bg_color=00000000&title_color=0B6B4F&text_color=6B7280&langs_count=8" alt="Top programming languages"/>
-
-<br/><br/>
-
-<a href="https://github.com/surajrandhari">
-  <img src="https://img.shields.io/badge/View_GitHub_Profile-0B6B4F?style=flat-square&logo=github&logoColor=white" alt="View GitHub profile"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajrandhari&layout=compact&hide_border=true&bg_color=00000000&title_color=0B6B4F&text_color=6B7280&langs_count=8" alt="Most used programming languages"/>
 
 </div>
 
@@ -146,8 +143,11 @@ A connected digital experience for church communities, bringing sermons, devotio
 
 I'm always interested in connecting with developers, exchanging ideas, and exploring opportunities to build impactful products.
 
-<br/>
+<br/><br/>
 
+<a href="https://surajrandhari.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-0B6B4F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
 <a href="https://www.linkedin.com/in/suraj-randhari/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -161,5 +161,7 @@ I'm always interested in connecting with developers, exchanging ideas, and explo
 <br/><br/>
 
 <sub>Designed with curiosity. Built with code.</sub>
+
+<br/><br/>
 
 </div>
